@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//anime-dub-calendar//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dubs · Disney+
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+X-APPLE-CALENDAR-COLOR:#007AFF
+BEGIN:VEVENT
+UID:90cc621d454714a020921fb82c7d7c74043b3013@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261109T163000Z
+DTEND:20261109T165400Z
+SUMMARY:⏸ BLEACH: Thousand-Year Blood War - The Calamity (Dub) – Ep 9/1
+ 0
+LOCATION:Disney+\, Hulu\, Apple TV\, YouTube
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\, YouTube\nStatus: Delaye
+ d\nTitel: BLEACH: Sennen Kessen-hen - Kashin-tan\n\nDisney+: https://www.d
+ isneyplus.com/series/bleach-thousand-year-blood-war/4Afet1Q421gy\nHulu: ht
+ tps://www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-461
+ 0-bbb4-5b8e9468d7b1\nApple TV: https://apple.co/4pD39X7\nYouTube: https://
+ www.youtube.com/playlist?list=PLYDN8muP8huc\nhttps://animeschedule.net/ani
+ me/bleach-sennen-kessen-hen-kashin-tan
+URL:https://animeschedule.net/anime/bleach-sennen-kessen-hen-kashin-tan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9808851a39fe544f01319b2f796fb030b57f8d@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261113T170000Z
+DTEND:20261113T172300Z
+SUMMARY:Tokyo Revengers: War of the Three Titans Arc (Dub) – Ep 7/13
+LOCATION:Disney+\, Hulu\, Apple TV
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\nTitel: Tokyo Revengers: 
+ Santen Sensou-hen\n\nDisney+: https://www.disneyplus.com/browse/entity-d45
+ b72d4-3c8d-4961-960a-c0c182890189\nHulu: https://www.hulu.com/series/tokyo
+ -revengers-1a195a35-e19c-4e36-b609-3b1c451f6ce4\nApple TV: https://apple.c
+ o/4zakgTx\nhttps://animeschedule.net/anime/tokyo-revengers-zoku-hen
+URL:https://animeschedule.net/anime/tokyo-revengers-zoku-hen
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d1948aaf94a81b5d14b3cf38a9c2a81a6749668a@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261120T170000Z
+DTEND:20261120T172300Z
+SUMMARY:Tokyo Revengers: War of the Three Titans Arc (Dub) – Ep 8/13
+LOCATION:Disney+\, Hulu\, Apple TV
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\nTitel: Tokyo Revengers: 
+ Santen Sensou-hen\n\nDisney+: https://www.disneyplus.com/browse/entity-d45
+ b72d4-3c8d-4961-960a-c0c182890189\nHulu: https://www.hulu.com/series/tokyo
+ -revengers-1a195a35-e19c-4e36-b609-3b1c451f6ce4\nApple TV: https://apple.c
+ o/4zakgTx\nhttps://animeschedule.net/anime/tokyo-revengers-zoku-hen
+URL:https://animeschedule.net/anime/tokyo-revengers-zoku-hen
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f192045c6575ef5739bb9e170bf560c0ef402a02@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261123T080000Z
+DTEND:20261123T082500Z
+SUMMARY:MAO (Dub) – Ep 26/26
+LOCATION:Disney+\, Hulu\, Apple TV\, Bilibili\, YouTube
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\, Bilibili\, YouTube\n\nD
+ isney+: https://www.disneyplus.com/browse/entity-6b6116ca-6f0b-4748-bb8d-b
+ 0fbb8eb5119\nHulu: https://www.hulu.com/series/7c9b966e-4234-4994-b1ef-372
+ 42b834d72\nApple TV: https://apple.co/47IDwwj\nBilibili: https://www.bilib
+ ili.tv/media/2343716\nYouTube: https://www.youtube.com/playlist?list=PLxSs
+ cENEp7Jh6jFqpP-B97p7eUzipzZzv\nhttps://animeschedule.net/anime/mao
+URL:https://animeschedule.net/anime/mao
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b0c7f85bc4d5e86763dfaa8945a6464f13ae7e99@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261127T170000Z
+DTEND:20261127T172300Z
+SUMMARY:Tokyo Revengers: War of the Three Titans Arc (Dub) – Ep 9/13
+LOCATION:Disney+\, Hulu\, Apple TV
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\nTitel: Tokyo Revengers: 
+ Santen Sensou-hen\n\nDisney+: https://www.disneyplus.com/browse/entity-d45
+ b72d4-3c8d-4961-960a-c0c182890189\nHulu: https://www.hulu.com/series/tokyo
+ -revengers-1a195a35-e19c-4e36-b609-3b1c451f6ce4\nApple TV: https://apple.c
+ o/4zakgTx\nhttps://animeschedule.net/anime/tokyo-revengers-zoku-hen
+URL:https://animeschedule.net/anime/tokyo-revengers-zoku-hen
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:164769faa00d64456f3ee6788fe8cc6714349f02@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261130T163000Z
+DTEND:20261130T165400Z
+SUMMARY:BLEACH: Thousand-Year Blood War - The Calamity (Dub) – Ep 10/10
+LOCATION:Disney+\, Hulu\, Apple TV\, YouTube
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\, YouTube\nTitel: BLEACH:
+  Sennen Kessen-hen - Kashin-tan\n\nDisney+: https://www.disneyplus.com/ser
+ ies/bleach-thousand-year-blood-war/4Afet1Q421gy\nHulu: https://www.hulu.co
+ m/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7
+ b1\nApple TV: https://apple.co/4pD39X7\nYouTube: https://www.youtube.com/p
+ laylist?list=PLYDN8muP8huc\nhttps://animeschedule.net/anime/bleach-sennen-
+ kessen-hen-kashin-tan
+URL:https://animeschedule.net/anime/bleach-sennen-kessen-hen-kashin-tan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d23cd45e39da9d0d33d4b33c46d51a5c74fe686@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261204T170000Z
+DTEND:20261204T172300Z
+SUMMARY:Tokyo Revengers: War of the Three Titans Arc (Dub) – Ep 10/13
+LOCATION:Disney+\, Hulu\, Apple TV
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\nTitel: Tokyo Revengers: 
+ Santen Sensou-hen\n\nDisney+: https://www.disneyplus.com/browse/entity-d45
+ b72d4-3c8d-4961-960a-c0c182890189\nHulu: https://www.hulu.com/series/tokyo
+ -revengers-1a195a35-e19c-4e36-b609-3b1c451f6ce4\nApple TV: https://apple.c
+ o/4zakgTx\nhttps://animeschedule.net/anime/tokyo-revengers-zoku-hen
+URL:https://animeschedule.net/anime/tokyo-revengers-zoku-hen
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e7c23281e351f84bd720598cb735cc711586b2@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261211T170000Z
+DTEND:20261211T172300Z
+SUMMARY:Tokyo Revengers: War of the Three Titans Arc (Dub) – Ep 11/13
+LOCATION:Disney+\, Hulu\, Apple TV
+DESCRIPTION:Te zien op: Disney+\, Hulu\, Apple TV\nTitel: Tokyo Revengers: 
+ Santen Sensou-hen\n\nDisney+: https://www.disneyplus.com/browse/entity-d45
+ b72d4-3c8d-4961-960a-c0c182890189\nHulu: https://www.hulu.com/series/tokyo
+ -revengers-1a195a35-e19c-4e36-b609-3b1c451f6ce4\nApple TV: https://apple.c
+ o/4zakgTx\nhttps://animeschedule.net/anime/tokyo-revengers-zoku-hen
+URL:https://animeschedule.net/anime/tokyo-revengers-zoku-hen
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

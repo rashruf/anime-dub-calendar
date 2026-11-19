@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//anime-dub-calendar//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dubs · Netflix
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+X-APPLE-CALENDAR-COLOR:#1C1C1E
+BEGIN:VEVENT
+UID:cea347b089b0372fbdfe1030507b3566f3d43408@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261112T153000Z
+DTEND:20261112T155300Z
+SUMMARY:The Ramparts of Ice 2nd Season (Dub) – Ep 7/13
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Koori no Jouheki 2nd Season\n\nNetf
+ lix: https://www.netflix.com/title/82031882\nhttps://animeschedule.net/ani
+ me/koori-no-jouheki-2nd-season
+URL:https://animeschedule.net/anime/koori-no-jouheki-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a0210fbe5a78806b95e306db0e3b73cdd1e812@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261113T080100Z
+DTEND:20261113T082600Z
+SUMMARY:JoJo's Bizarre Adventure: Steel Ball Run 2nd - 3rd STAGE (Dub) – 
+ Ep 8/11
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: JoJo no Kimyou na Bouken Part 7: St
+ eel Ball Run - 2nd - 3rd STAGE\n\nNetflix: https://netflix.com/title/82116
+ 553\nhttps://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel
+ -ball-run-2nd-stage
+URL:https://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel-b
+ all-run-2nd-stage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:57bdbaf0fa814c3a36b828697ce304ab77ad89c9@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261114T170000Z
+DTEND:20261114T172300Z
+SUMMARY:Ranma ½ (2024) 3rd Season (Dub) – Ep 7
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1171925\nhttps://animeschedule.net/anime/ranma-2024-3rd-season
+URL:https://animeschedule.net/anime/ranma-2024-3rd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9aabcc32896bfd1f9af6207d933c395ec2ff90d@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261115T080000Z
+DTEND:20261115T082300Z
+SUMMARY:Blue Box 2nd Season (Dub) – Ep 6/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Ao no Hako 2nd Season\n\nNetflix: h
+ ttps://www.netflix.com/title/81663323\nhttps://animeschedule.net/anime/ao-
+ no-hako-2nd-season
+URL:https://animeschedule.net/anime/ao-no-hako-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1719bb31eb84f919444a0b33e8d6a75c13f400b@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261119T153000Z
+DTEND:20261119T155300Z
+SUMMARY:The Ramparts of Ice 2nd Season (Dub) – Ep 8/13
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Koori no Jouheki 2nd Season\n\nNetf
+ lix: https://www.netflix.com/title/82031882\nhttps://animeschedule.net/ani
+ me/koori-no-jouheki-2nd-season
+URL:https://animeschedule.net/anime/koori-no-jouheki-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86af1cf8cd7d0d335d16f0712108408e2ecf0847@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261120T080100Z
+DTEND:20261120T082600Z
+SUMMARY:JoJo's Bizarre Adventure: Steel Ball Run 2nd - 3rd STAGE (Dub) – 
+ Ep 9/11
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: JoJo no Kimyou na Bouken Part 7: St
+ eel Ball Run - 2nd - 3rd STAGE\n\nNetflix: https://netflix.com/title/82116
+ 553\nhttps://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel
+ -ball-run-2nd-stage
+URL:https://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel-b
+ all-run-2nd-stage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:573f77619b3133886652e337f65e18fb380dd88b@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261121T170000Z
+DTEND:20261121T172300Z
+SUMMARY:Ranma ½ (2024) 3rd Season (Dub) – Ep 8
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1171925\nhttps://animeschedule.net/anime/ranma-2024-3rd-season
+URL:https://animeschedule.net/anime/ranma-2024-3rd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6aec4f6f155b11a0b0a463e6a37d4a3b8607bec2@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261122T080000Z
+DTEND:20261122T082300Z
+SUMMARY:Blue Box 2nd Season (Dub) – Ep 7/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Ao no Hako 2nd Season\n\nNetflix: h
+ ttps://www.netflix.com/title/81663323\nhttps://animeschedule.net/anime/ao-
+ no-hako-2nd-season
+URL:https://animeschedule.net/anime/ao-no-hako-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1b3f627aab8178a37e462d6a9d8b0d855c468a@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261126T080100Z
+DTEND:20261126T082500Z
+SUMMARY:Fool Night (Dub) – Ep 1/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1991076\nhttps://animeschedule.net/anime/fool-night
+URL:https://animeschedule.net/anime/fool-night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:21b0fd2258049852b25b39565e0ac4a23f73ec99@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261126T153000Z
+DTEND:20261126T155300Z
+SUMMARY:The Ramparts of Ice 2nd Season (Dub) – Ep 9/13
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Koori no Jouheki 2nd Season\n\nNetf
+ lix: https://www.netflix.com/title/82031882\nhttps://animeschedule.net/ani
+ me/koori-no-jouheki-2nd-season
+URL:https://animeschedule.net/anime/koori-no-jouheki-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:019af6565880607272dc802fd15c061d60a940bf@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261127T080100Z
+DTEND:20261127T082600Z
+SUMMARY:JoJo's Bizarre Adventure: Steel Ball Run 2nd - 3rd STAGE (Dub) – 
+ Ep 10/11
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: JoJo no Kimyou na Bouken Part 7: St
+ eel Ball Run - 2nd - 3rd STAGE\n\nNetflix: https://netflix.com/title/82116
+ 553\nhttps://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel
+ -ball-run-2nd-stage
+URL:https://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel-b
+ all-run-2nd-stage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5d5f3126b3eb57f1911b8b3a17842faf2c4de4@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261128T170000Z
+DTEND:20261128T172300Z
+SUMMARY:Ranma ½ (2024) 3rd Season (Dub) – Ep 9
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1171925\nhttps://animeschedule.net/anime/ranma-2024-3rd-season
+URL:https://animeschedule.net/anime/ranma-2024-3rd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea564eadcfc229f5482d4f9fb00c3c2ca6d7a5b9@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261129T080000Z
+DTEND:20261129T082300Z
+SUMMARY:Blue Box 2nd Season (Dub) – Ep 8/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Ao no Hako 2nd Season\n\nNetflix: h
+ ttps://www.netflix.com/title/81663323\nhttps://animeschedule.net/anime/ao-
+ no-hako-2nd-season
+URL:https://animeschedule.net/anime/ao-no-hako-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a49e278188c61c96551806c94da7b5e8295f651d@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261203T080100Z
+DTEND:20261203T082500Z
+SUMMARY:Fool Night (Dub) – Ep 2/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1991076\nhttps://animeschedule.net/anime/fool-night
+URL:https://animeschedule.net/anime/fool-night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6ce2fb8e83c752bdff31270aa974205684d18c41@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261203T153000Z
+DTEND:20261203T155300Z
+SUMMARY:The Ramparts of Ice 2nd Season (Dub) – Ep 10/13
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Koori no Jouheki 2nd Season\n\nNetf
+ lix: https://www.netflix.com/title/82031882\nhttps://animeschedule.net/ani
+ me/koori-no-jouheki-2nd-season
+URL:https://animeschedule.net/anime/koori-no-jouheki-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0cd3e3c175ea14a14f25aff9333e0b4b17b55adb@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261204T080100Z
+DTEND:20261204T082600Z
+SUMMARY:JoJo's Bizarre Adventure: Steel Ball Run 2nd - 3rd STAGE (Dub) – 
+ Ep 11/11
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: JoJo no Kimyou na Bouken Part 7: St
+ eel Ball Run - 2nd - 3rd STAGE\n\nNetflix: https://netflix.com/title/82116
+ 553\nhttps://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel
+ -ball-run-2nd-stage
+URL:https://animeschedule.net/anime/jojo-no-kimyou-na-bouken-part-7-steel-b
+ all-run-2nd-stage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bce87281c0f295fb7040b8742d0623bce367852e@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261205T170000Z
+DTEND:20261205T172300Z
+SUMMARY:Ranma ½ (2024) 3rd Season (Dub) – Ep 10
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1171925\nhttps://animeschedule.net/anime/ranma-2024-3rd-season
+URL:https://animeschedule.net/anime/ranma-2024-3rd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba4a0fa5d67658b981d25e20685bca2337d4826d@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261206T080000Z
+DTEND:20261206T082300Z
+SUMMARY:Blue Box 2nd Season (Dub) – Ep 9/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Ao no Hako 2nd Season\n\nNetflix: h
+ ttps://www.netflix.com/title/81663323\nhttps://animeschedule.net/anime/ao-
+ no-hako-2nd-season
+URL:https://animeschedule.net/anime/ao-no-hako-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f1428da40ee30c3584b2b17bf3e0c2ec65209111@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261210T080100Z
+DTEND:20261210T082500Z
+SUMMARY:Fool Night (Dub) – Ep 3/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1991076\nhttps://animeschedule.net/anime/fool-night
+URL:https://animeschedule.net/anime/fool-night
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dba1618957d6bf33bba46a54673d5914739d4ee4@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261210T153000Z
+DTEND:20261210T155300Z
+SUMMARY:The Ramparts of Ice 2nd Season (Dub) – Ep 11/13
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Koori no Jouheki 2nd Season\n\nNetf
+ lix: https://www.netflix.com/title/82031882\nhttps://animeschedule.net/ani
+ me/koori-no-jouheki-2nd-season
+URL:https://animeschedule.net/anime/koori-no-jouheki-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f4b41662878756669568c71def5c9f1d18f7cc13@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261212T170000Z
+DTEND:20261212T172300Z
+SUMMARY:Ranma ½ (2024) 3rd Season (Dub) – Ep 11
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\n\nNetflix: https://www.netflix.com/title/8
+ 1171925\nhttps://animeschedule.net/anime/ranma-2024-3rd-season
+URL:https://animeschedule.net/anime/ranma-2024-3rd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18f7dd8e729ad277ca0f13d9df38094232a891b9@anime-dub-calendar
+DTSTAMP:20261119T181115Z
+DTSTART:20261213T080000Z
+DTEND:20261213T082300Z
+SUMMARY:Blue Box 2nd Season (Dub) – Ep 10/12
+LOCATION:Netflix
+DESCRIPTION:Te zien op: Netflix\nTitel: Ao no Hako 2nd Season\n\nNetflix: h
+ ttps://www.netflix.com/title/81663323\nhttps://animeschedule.net/anime/ao-
+ no-hako-2nd-season
+URL:https://animeschedule.net/anime/ao-no-hako-2nd-season
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,45 @@
+name: Update anime dub calendar
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # elk uur (GitHub kan een paar minuten uitlopen)
+  workflow_dispatch:        # handmatig starten via de Actions-tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Agenda bouwen
+        env:
+          ANIMESCHEDULE_TOKEN: ${{ secrets.ANIMESCHEDULE_TOKEN }}
+          MY_ROUTES: ${{ vars.MY_ROUTES }}
+        run: python build.py
+
+      - name: Committen als het schema echt veranderd is
+        run: |
+          # DTSTAMP verandert elke run; negeer die bij de vergelijking
+          if git diff --quiet -I '^DTSTAMP:' -- docs/ && [ -z "$(git ls-files --others --exclude-standard docs/)" ]; then
+            echo "Geen wijzigingen in het schema."
+            git checkout -- docs/
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "Agenda bijgewerkt $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push

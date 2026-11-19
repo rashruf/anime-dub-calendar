@@ -33,6 +33,11 @@ def write(name: str, ics: str) -> None:
 
 write("anime-dubs.ics", dubcal.build_ics(items))
 
+# Eén feed per streamingdienst, elk met een eigen kleur
+for slug, _, name, color in dubcal.FEEDS + [dubcal.OTHER_FEED]:
+    subset = [it for it in items if dubcal.primary_feed(it) == slug]
+    write(f"{slug}.ics", dubcal.build_ics(subset, cal_name=name, color=color))
+
 routes = {r.strip() for r in os.environ.get("MY_ROUTES", "").split(",") if r.strip()}
 if routes:
     write("mijn-dubs.ics", dubcal.build_ics(items, routes, cal_name="Mijn anime dubs"))

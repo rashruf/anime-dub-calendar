@@ -128,6 +128,27 @@ SERVICE_NAMES = {
 # Volgorde waarin diensten getoond worden (rest daarna alfabetisch)
 SERVICE_ORDER = ["Crunchyroll", "Netflix", "HIDIVE", "Prime Video", "Disney+", "Max", "Hulu", "ADN"]
 
+# Aparte agenda's per dienst: (bestandsnaam, dienst, agendanaam, kleur).
+# Een aflevering komt in de feed van de eerste dienst uit SERVICE_ORDER die hij heeft;
+# alles zonder een van deze diensten komt in 'overig'.
+FEEDS = [
+    ("crunchyroll", "Crunchyroll", "Dubs · Crunchyroll", "#E5262B"),  # rood
+    ("netflix", "Netflix", "Dubs · Netflix", "#1C1C1E"),              # zwart
+    ("hidive", "HIDIVE", "Dubs · HIDIVE", "#AF52DE"),                 # paars
+    ("prime-video", "Prime Video", "Dubs · Prime Video", "#34C759"),  # groen
+    ("disney", "Disney+", "Dubs · Disney+", "#007AFF"),               # blauw
+]
+OTHER_FEED = ("overig", None, "Dubs · Overig", "#8E8E93")             # grijs
+
+
+def primary_feed(item: dict) -> str:
+    """Bepaalt in welke dienst-feed een aflevering hoort."""
+    names = {n for n, _ in _streams(item.get("streams"))}
+    for slug, service, _, _ in FEEDS:
+        if service in names:
+            return slug
+    return OTHER_FEED[0]
+
 
 def _streams(streams) -> list[tuple[str, str]]:
     """Geeft [(nette naam, url), ...] terug; 'streams' kan een dict of lijst zijn."""
@@ -155,7 +176,7 @@ def _streams(streams) -> list[tuple[str, str]]:
 # ICS
 # ----------------------------------------------------------------------------
 def build_ics(items: list[dict], include_routes: set[str] | None = None,
-              cal_name: str = "Anime English Dubs") -> str:
+              cal_name: str = "Anime English Dubs", color: str | None = None) -> str:
     now = _fmt(datetime.now(timezone.utc))
     lines = [
         "BEGIN:VCALENDAR",
@@ -168,6 +189,8 @@ def build_ics(items: list[dict], include_routes: set[str] | None = None,
         "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
         "X-PUBLISHED-TTL:PT1H",
     ]
+    if color:
+        lines.append(f"X-APPLE-CALENDAR-COLOR:{color}")  # beginkleur in iOS/macOS
 
     seen_uids = set()
     for it in items:

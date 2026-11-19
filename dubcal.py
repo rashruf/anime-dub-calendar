@@ -100,21 +100,55 @@ def _fold(line: str) -> str:
     return "\r\n ".join(parts)
 
 
-def _stream_links(streams) -> list[str]:
-    """'streams' kan een dict of een lijst zijn; pak er de URL's uit."""
-    links = []
+SERVICE_NAMES = {
+    "crunchyroll": "Crunchyroll",
+    "netflix": "Netflix",
+    "hulu": "Hulu",
+    "disney": "Disney+",
+    "disneyplus": "Disney+",
+    "amazon": "Prime Video",
+    "primevideo": "Prime Video",
+    "apple": "Apple TV",
+    "youtube": "YouTube",
+    "bilibili": "Bilibili",
+    "hidive": "HIDIVE",
+    "adn": "ADN",
+    "max": "Max",
+    "hbo": "Max",
+    "hbomax": "Max",
+    "funimation": "Funimation",
+    "tubi": "Tubi",
+    "retrocrush": "RetroCrush",
+    "aniplus": "Aniplus",
+    "muse": "Muse Asia",
+    "anione": "Ani-One",
+    "iqiyi": "iQIYI",
+}
+
+# Volgorde waarin diensten getoond worden (rest daarna alfabetisch)
+SERVICE_ORDER = ["Crunchyroll", "Netflix", "HIDIVE", "Prime Video", "Disney+", "Max", "Hulu", "ADN"]
+
+
+def _streams(streams) -> list[tuple[str, str]]:
+    """Geeft [(nette naam, url), ...] terug; 'streams' kan een dict of lijst zijn."""
+    pairs: list[tuple[str, str]] = []
     if isinstance(streams, dict):
-        for name, url in streams.items():
-            if isinstance(url, str) and url:
-                links.append(f"{name}: {url if url.startswith('http') else 'https://' + url}")
+        raw = [(k, v) for k, v in streams.items() if isinstance(v, str) and v]
     elif isinstance(streams, list):
-        for s in streams:
-            if isinstance(s, dict):
-                url = s.get("url") or s.get("link")
-                name = s.get("platform") or s.get("name") or "stream"
-                if url:
-                    links.append(f"{name}: {url}")
-    return links
+        raw = [((s.get("platform") or s.get("name") or "stream"), (s.get("url") or s.get("link") or ""))
+               for s in streams if isinstance(s, dict)]
+    else:
+        raw = []
+    seen = set()
+    for key, url in raw:
+        name = SERVICE_NAMES.get(str(key).lower().replace(" ", "").replace("+", ""), str(key).title())
+        if name in seen or not url:
+            continue
+        seen.add(name)
+        pairs.append((name, url if url.startswith("http") else "https://" + url))
+    rank = {n: i for i, n in enumerate(SERVICE_ORDER)}
+    pairs.sort(key=lambda p: (rank.get(p[0], len(rank)), p[0]))
+    return pairs
 
 
 # ----------------------------------------------------------------------------
@@ -160,12 +194,19 @@ def build_ics(items: list[dict], include_routes: set[str] | None = None,
         if delayed:
             summary = f"⏸ {summary}"
 
+        streams = _streams(it.get("streams"))
+        services = ", ".join(n for n, _ in streams)
+
         desc = []
+        if services:
+            desc.append(f"Te zien op: {services}")
         if delayed:
             desc.append(f"Status: {delayed}")
         if it.get("title") and it.get("title") != title:
             desc.append(f"Titel: {it['title']}")
-        desc.extend(_stream_links(it.get("streams")))
+        if streams:
+            desc.append("")
+            desc.extend(f"{n}: {u}" for n, u in streams)
         page = f"{SITE_BASE}/{route}" if route else ""
         if page:
             desc.append(page)
@@ -184,6 +225,8 @@ def build_ics(items: list[dict], include_routes: set[str] | None = None,
             f"DTEND:{_fmt(end)}",
             f"SUMMARY:{_escape(summary)}",
         ]
+        if services:
+            ev.append(f"LOCATION:{_escape(services)}")  # iOS toont dit direct onder de titel
         if desc:
             ev.append(f"DESCRIPTION:{_escape(chr(10).join(desc))}")
         if page:

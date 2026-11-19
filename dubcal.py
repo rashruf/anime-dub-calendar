@@ -123,10 +123,11 @@ SERVICE_NAMES = {
     "muse": "Muse Asia",
     "anione": "Ani-One",
     "iqiyi": "iQIYI",
+    "oceanveil": "OceanVeil",
 }
 
 # Volgorde waarin diensten getoond worden (rest daarna alfabetisch)
-SERVICE_ORDER = ["Crunchyroll", "Netflix", "HIDIVE", "Prime Video", "Disney+", "Max", "Hulu", "ADN"]
+SERVICE_ORDER = ["Crunchyroll", "Netflix", "HIDIVE", "Prime Video", "Disney+", "OceanVeil", "Max", "Hulu", "ADN"]
 
 # Aparte agenda's per dienst: (bestandsnaam, dienst, agendanaam, kleur).
 # Een aflevering komt in de feed van de eerste dienst uit SERVICE_ORDER die hij heeft;
@@ -137,6 +138,7 @@ FEEDS = [
     ("hidive", "HIDIVE", "Dubs · HIDIVE", "#AF52DE"),                 # paars
     ("prime-video", "Prime Video", "Dubs · Prime Video", "#34C759"),  # groen
     ("disney", "Disney+", "Dubs · Disney+", "#007AFF"),               # blauw
+    ("oceanveil", "OceanVeil", "Dubs · OceanVeil", "#30B0C7"),        # turquoise
 ]
 OTHER_FEED = ("overig", None, "Dubs · Overig", "#8E8E93")             # grijs
 

@@ -10,7 +10,7 @@ X-PUBLISHED-TTL:PT1H
 X-APPLE-CALENDAR-COLOR:#8E8E93
 BEGIN:VEVENT
 UID:70ebbc166f3354a6059abf057a95a9425eb907c5@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261110T220000Z
 DTEND:20261110T220200Z
 SUMMARY:Chiikawa (Dub) – Ep 18
@@ -22,34 +22,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d0a52046d873a2742300a7e762ee4fb63e209dc8@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261112T023000Z
-DTEND:20261112T024200Z
-SUMMARY:KAMUI: He's Behind You (Dub) – Ep 9/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ushiro no Shoumen Kamui-san\n\nOc
- eanveil: https://oceanveil.net/anime_titles/463\nhttps://animeschedule.net
- /anime/ushiro-no-shoumen-kamui-san
-URL:https://animeschedule.net/anime/ushiro-no-shoumen-kamui-san
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7ca316e56b47c910c325210dff420c5a87034e40@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261112T040000Z
-DTEND:20261112T040300Z
-SUMMARY:Ingoku Danchi: Deviant's Apartment Complex (Dub) – Ep 1/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ingoku Danchi\n\nOceanveil: https
- ://oceanveil.net/anime_titles/411\nhttps://animeschedule.net/anime/ingoku-
- danchi
-URL:https://animeschedule.net/anime/ingoku-danchi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:d46cb38693000454cf41c4e2c9c8d296f36c1c05@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261112T190000Z
 DTEND:20261112T192300Z
 SUMMARY:Welsh & Shedar (Dub) – Ep 3/12
@@ -62,7 +36,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f1fb947f4b69c6224d80eb70192b8c1d32d9f84d@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261113T220000Z
 DTEND:20261113T220200Z
 SUMMARY:Chiikawa (Dub) – Ep 19
@@ -74,54 +48,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:5a49d2151eb83b976613c5880ce5a3e13dfd52f0@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261114T180000Z
-DTEND:20261114T182300Z
-SUMMARY:Even the Student Council Has Its Holes! (Dub) – Ep 3/12
-LOCATION:Bilibili\, Oceanveil
-DESCRIPTION:Te zien op: Bilibili\, Oceanveil\nTitel: Seitokai ni mo Ana wa 
- Aru!\n\nBilibili: https://www.bilibili.tv/en/media/2433041\nOceanveil: htt
- ps://oceanveil.net/anime_titles/541\nhttps://animeschedule.net/anime/seito
- kai-ni-mo-ana-wa-aru
-URL:https://animeschedule.net/anime/seitokai-ni-mo-ana-wa-aru
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:b313a572ca36d973b6c571009c9d053c92b7a207@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261115T160100Z
-DTEND:20261115T160800Z
-SUMMARY:Now That I Can Control Reality with a Mouse Cursor\, I'm Gonna Clic
- k Away on the Girls! (Dub) – Ep 6/8
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Mouse Cursor de Genjitsu wo Sousa
-  Dekiru You ni Natta node\, Onna no Ko wo Ippai Click Shimaasu\n\nOceanvei
- l: https://oceanveil.net/anime_titles/522\nhttps://animeschedule.net/anime
- /mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-
- ippai-click-shimaasu
-URL:https://animeschedule.net/anime/mouse-cursor-de-genjitsu-wo-sousa-dekir
- u-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:04cc8ae278248f33f252b42451520e0cf7e2ea8b@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261115T160600Z
-DTEND:20261115T161300Z
-SUMMARY:The Lonely Snow Widow and the Cursed Ring (Dub) – Ep 6/8
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Hitozukiai ga Nigate na Miboujin 
- no Yukionna-san to Noroi no Yubiwa\n\nOceanveil: https://oceanveil.net/ani
- me_titles/524\nhttps://animeschedule.net/anime/hitozukiai-ga-nigate-na-mib
- oujin-no-yukionna-san-to-noroi-no-yubiwa
-URL:https://animeschedule.net/anime/hitozukiai-ga-nigate-na-miboujin-no-yuk
- ionna-san-to-noroi-no-yubiwa
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:1a4bb2a43a82857f85aba8e1f0e16066cfd8fa80@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261115T170000Z
 DTEND:20261115T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 20
@@ -134,7 +62,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:099857d6996bb54f3be1e27ce0cb3eb6226d8cc6@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261117T220000Z
 DTEND:20261117T220200Z
 SUMMARY:Chiikawa (Dub) – Ep 21
@@ -146,34 +74,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:495bceddf28e059d685d227301a84f6d80881733@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261119T023000Z
-DTEND:20261119T024200Z
-SUMMARY:KAMUI: He's Behind You (Dub) – Ep 10/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ushiro no Shoumen Kamui-san\n\nOc
- eanveil: https://oceanveil.net/anime_titles/463\nhttps://animeschedule.net
- /anime/ushiro-no-shoumen-kamui-san
-URL:https://animeschedule.net/anime/ushiro-no-shoumen-kamui-san
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:93a36f27ea993a4d726c27c2446b89aace94c60d@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261119T040000Z
-DTEND:20261119T040300Z
-SUMMARY:Ingoku Danchi: Deviant's Apartment Complex (Dub) – Ep 2/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ingoku Danchi\n\nOceanveil: https
- ://oceanveil.net/anime_titles/411\nhttps://animeschedule.net/anime/ingoku-
- danchi
-URL:https://animeschedule.net/anime/ingoku-danchi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:c10b39bf970eb3c5d1b0d3bae2678699be853f58@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261119T190000Z
 DTEND:20261119T192300Z
 SUMMARY:Welsh & Shedar (Dub) – Ep 4/12
@@ -186,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:171fca6ff4d9e9747ed660d49ad2bf3baaa7cc27@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261120T220000Z
 DTEND:20261120T220200Z
 SUMMARY:Chiikawa (Dub) – Ep 22
@@ -198,54 +100,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4917b918b0d7c15364a080c7ea5fcea2ba31583f@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261121T180000Z
-DTEND:20261121T182300Z
-SUMMARY:Even the Student Council Has Its Holes! (Dub) – Ep 4/12
-LOCATION:Bilibili\, Oceanveil
-DESCRIPTION:Te zien op: Bilibili\, Oceanveil\nTitel: Seitokai ni mo Ana wa 
- Aru!\n\nBilibili: https://www.bilibili.tv/en/media/2433041\nOceanveil: htt
- ps://oceanveil.net/anime_titles/541\nhttps://animeschedule.net/anime/seito
- kai-ni-mo-ana-wa-aru
-URL:https://animeschedule.net/anime/seitokai-ni-mo-ana-wa-aru
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:89ac8b19763c94b6f7eb18941ae877bff9b2dc9b@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261122T160100Z
-DTEND:20261122T160800Z
-SUMMARY:Now That I Can Control Reality with a Mouse Cursor\, I'm Gonna Clic
- k Away on the Girls! (Dub) – Ep 7/8
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Mouse Cursor de Genjitsu wo Sousa
-  Dekiru You ni Natta node\, Onna no Ko wo Ippai Click Shimaasu\n\nOceanvei
- l: https://oceanveil.net/anime_titles/522\nhttps://animeschedule.net/anime
- /mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-
- ippai-click-shimaasu
-URL:https://animeschedule.net/anime/mouse-cursor-de-genjitsu-wo-sousa-dekir
- u-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ef493235f3fbace25c46727a9287ecfaff916487@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261122T160600Z
-DTEND:20261122T161300Z
-SUMMARY:The Lonely Snow Widow and the Cursed Ring (Dub) – Ep 7/8
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Hitozukiai ga Nigate na Miboujin 
- no Yukionna-san to Noroi no Yubiwa\n\nOceanveil: https://oceanveil.net/ani
- me_titles/524\nhttps://animeschedule.net/anime/hitozukiai-ga-nigate-na-mib
- oujin-no-yukionna-san-to-noroi-no-yubiwa
-URL:https://animeschedule.net/anime/hitozukiai-ga-nigate-na-miboujin-no-yuk
- ionna-san-to-noroi-no-yubiwa
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:f5e72d3d7805e14ff3daa3f638b27b33f6ef9158@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261122T170000Z
 DTEND:20261122T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 23
@@ -258,7 +114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6a6f49afb61cff800a9c62a0a3ecf8bf2f38b686@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261124T170000Z
 DTEND:20261124T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 24
@@ -270,34 +126,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:a0f7aeb616177025e7cb9542c6806f3a93ea0e43@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261126T023000Z
-DTEND:20261126T024200Z
-SUMMARY:KAMUI: He's Behind You (Dub) – Ep 11/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ushiro no Shoumen Kamui-san\n\nOc
- eanveil: https://oceanveil.net/anime_titles/463\nhttps://animeschedule.net
- /anime/ushiro-no-shoumen-kamui-san
-URL:https://animeschedule.net/anime/ushiro-no-shoumen-kamui-san
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:9cc8e6427f4a77f743823243480889fac3bb498c@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261126T040000Z
-DTEND:20261126T040300Z
-SUMMARY:Ingoku Danchi: Deviant's Apartment Complex (Dub) – Ep 3/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ingoku Danchi\n\nOceanveil: https
- ://oceanveil.net/anime_titles/411\nhttps://animeschedule.net/anime/ingoku-
- danchi
-URL:https://animeschedule.net/anime/ingoku-danchi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:e95aa4285b9c52d02e6ab98c40a1ef317936536a@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261126T190000Z
 DTEND:20261126T192300Z
 SUMMARY:Welsh & Shedar (Dub) – Ep 5/12
@@ -310,7 +140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:50b809c5a1e8e92cb054ef951884bf3c5abde037@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261127T170000Z
 DTEND:20261127T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 25
@@ -322,54 +152,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:20fd1ec877c0d502c6164bf5d5f1ea8fd4bd4ab6@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261128T180000Z
-DTEND:20261128T182300Z
-SUMMARY:Even the Student Council Has Its Holes! (Dub) – Ep 5/12
-LOCATION:Bilibili\, Oceanveil
-DESCRIPTION:Te zien op: Bilibili\, Oceanveil\nTitel: Seitokai ni mo Ana wa 
- Aru!\n\nBilibili: https://www.bilibili.tv/en/media/2433041\nOceanveil: htt
- ps://oceanveil.net/anime_titles/541\nhttps://animeschedule.net/anime/seito
- kai-ni-mo-ana-wa-aru
-URL:https://animeschedule.net/anime/seitokai-ni-mo-ana-wa-aru
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ebfe6c5ffdfad2eb7d902ce15998ea6571a9212e@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261129T160100Z
-DTEND:20261129T160800Z
-SUMMARY:Now That I Can Control Reality with a Mouse Cursor\, I'm Gonna Clic
- k Away on the Girls! (Dub) – Ep 8/8
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Mouse Cursor de Genjitsu wo Sousa
-  Dekiru You ni Natta node\, Onna no Ko wo Ippai Click Shimaasu\n\nOceanvei
- l: https://oceanveil.net/anime_titles/522\nhttps://animeschedule.net/anime
- /mouse-cursor-de-genjitsu-wo-sousa-dekiru-you-ni-natta-node-onna-no-ko-wo-
- ippai-click-shimaasu
-URL:https://animeschedule.net/anime/mouse-cursor-de-genjitsu-wo-sousa-dekir
- u-you-ni-natta-node-onna-no-ko-wo-ippai-click-shimaasu
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:5d2ef4fd71bc7603f8a14568343dace374c19951@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261129T160600Z
-DTEND:20261129T161300Z
-SUMMARY:The Lonely Snow Widow and the Cursed Ring (Dub) – Ep 8/8
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Hitozukiai ga Nigate na Miboujin 
- no Yukionna-san to Noroi no Yubiwa\n\nOceanveil: https://oceanveil.net/ani
- me_titles/524\nhttps://animeschedule.net/anime/hitozukiai-ga-nigate-na-mib
- oujin-no-yukionna-san-to-noroi-no-yubiwa
-URL:https://animeschedule.net/anime/hitozukiai-ga-nigate-na-miboujin-no-yuk
- ionna-san-to-noroi-no-yubiwa
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:89eab10d3e566c9490d38af518328fb7d6a18d5b@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261129T170000Z
 DTEND:20261129T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 26
@@ -382,7 +166,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:94cafa30c6216742087b0eb12edddfe56665da1b@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261201T170000Z
 DTEND:20261201T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 27
@@ -394,34 +178,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:87cd8bacb75ed7737cb391e3c1fae3aa52538e71@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261203T023000Z
-DTEND:20261203T024200Z
-SUMMARY:KAMUI: He's Behind You (Dub) – Ep 12/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ushiro no Shoumen Kamui-san\n\nOc
- eanveil: https://oceanveil.net/anime_titles/463\nhttps://animeschedule.net
- /anime/ushiro-no-shoumen-kamui-san
-URL:https://animeschedule.net/anime/ushiro-no-shoumen-kamui-san
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:03e1e5a98e66a8ba84670abda13e210ea7b0d22c@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261203T040000Z
-DTEND:20261203T040300Z
-SUMMARY:Ingoku Danchi: Deviant's Apartment Complex (Dub) – Ep 4/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ingoku Danchi\n\nOceanveil: https
- ://oceanveil.net/anime_titles/411\nhttps://animeschedule.net/anime/ingoku-
- danchi
-URL:https://animeschedule.net/anime/ingoku-danchi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:35dfe3c500910fb12b29edc7068627ee914488b0@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261203T190000Z
 DTEND:20261203T192300Z
 SUMMARY:Welsh & Shedar (Dub) – Ep 6/12
@@ -434,7 +192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d727825f73d5baa0a2078727b1c36a23976d3d4f@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261204T170000Z
 DTEND:20261204T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 28
@@ -446,22 +204,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cdf5e4e17727a1f92d614801752edf55eabd39ed@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261205T180000Z
-DTEND:20261205T182300Z
-SUMMARY:Even the Student Council Has Its Holes! (Dub) – Ep 6/12
-LOCATION:Bilibili\, Oceanveil
-DESCRIPTION:Te zien op: Bilibili\, Oceanveil\nTitel: Seitokai ni mo Ana wa 
- Aru!\n\nBilibili: https://www.bilibili.tv/en/media/2433041\nOceanveil: htt
- ps://oceanveil.net/anime_titles/541\nhttps://animeschedule.net/anime/seito
- kai-ni-mo-ana-wa-aru
-URL:https://animeschedule.net/anime/seitokai-ni-mo-ana-wa-aru
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:b0d8457cd5244a84d895b897ffcc369a14175778@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261206T170000Z
 DTEND:20261206T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 29
@@ -474,7 +218,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c5ef08e526c2888235d2acbb3580752c742539e2@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261208T170000Z
 DTEND:20261208T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 30
@@ -486,21 +230,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c0bf73eb72783c4894244748776cbbcf8e27d7a8@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261210T040000Z
-DTEND:20261210T040300Z
-SUMMARY:Ingoku Danchi: Deviant's Apartment Complex (Dub) – Ep 5/12
-LOCATION:Oceanveil
-DESCRIPTION:Te zien op: Oceanveil\nTitel: Ingoku Danchi\n\nOceanveil: https
- ://oceanveil.net/anime_titles/411\nhttps://animeschedule.net/anime/ingoku-
- danchi
-URL:https://animeschedule.net/anime/ingoku-danchi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:6524fdccdaf4601fc5dd4a6c0142123a3f889029@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261210T190000Z
 DTEND:20261210T192300Z
 SUMMARY:Welsh & Shedar (Dub) – Ep 7/12
@@ -513,7 +244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:fd5912713e233883a491234fcba71de4fca20d15@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261211T170000Z
 DTEND:20261211T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 31
@@ -525,22 +256,8 @@ URL:https://animeschedule.net/anime/chiikawa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:c09043090a8526ef06695ad2888b7e0a491f384c@anime-dub-calendar
-DTSTAMP:20261119T181115Z
-DTSTART:20261212T180000Z
-DTEND:20261212T182300Z
-SUMMARY:Even the Student Council Has Its Holes! (Dub) – Ep 7/12
-LOCATION:Bilibili\, Oceanveil
-DESCRIPTION:Te zien op: Bilibili\, Oceanveil\nTitel: Seitokai ni mo Ana wa 
- Aru!\n\nBilibili: https://www.bilibili.tv/en/media/2433041\nOceanveil: htt
- ps://oceanveil.net/anime_titles/541\nhttps://animeschedule.net/anime/seito
- kai-ni-mo-ana-wa-aru
-URL:https://animeschedule.net/anime/seitokai-ni-mo-ana-wa-aru
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:c35b621b963a57c6bb05238c44c280de92bd97df@anime-dub-calendar
-DTSTAMP:20261119T181115Z
+DTSTAMP:20261119T195513Z
 DTSTART:20261213T170000Z
 DTEND:20261213T170200Z
 SUMMARY:Chiikawa (Dub) – Ep 32

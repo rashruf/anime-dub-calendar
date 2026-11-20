@@ -1,1 +1,1 @@
-Webpagina met Aziatische live-action series en films met Engelse dub. Open index.html via GitHub Pages: https://rashruf.github.io/anime-dub-calendar/dub-lijst/
+Verhuisd naar https://rashruf.github.io/asian-dub-series-movies/ (repo rashruf/asian-dub-series-movies).

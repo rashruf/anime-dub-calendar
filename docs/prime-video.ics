@@ -9,49 +9,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 X-APPLE-CALENDAR-COLOR:#34C759
 BEGIN:VEVENT
-UID:7349ac940133828bc87ca07ddb95eb472969ae19@anime-dub-calendar
-DTSTAMP:20261122T021223Z
-DTSTART:20261113T120100Z
-DTEND:20261113T122400Z
-SUMMARY:Devils' Crest (Dub) – Ep 3
-LOCATION:Prime Video\, Apple TV
-DESCRIPTION:Te zien op: Prime Video\, Apple TV\nTitel: Demons' Crest\n\nPri
- me Video: https://www.primevideo.com/detail/0J35D20PPSSNACER7Z6BEAHQFW\nAp
- ple TV: https://apple.co/488VHuU\nhttps://animeschedule.net/anime/demons-c
- rest
-URL:https://animeschedule.net/anime/demons-crest
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:8331d2529ada2e0c268d968904849e3a53ff0aad@anime-dub-calendar
-DTSTAMP:20261122T021223Z
-DTSTART:20261114T150000Z
-DTEND:20261114T152500Z
-SUMMARY:The Seven Knights of the Marronnier Kingdom (Dub) – Ep 7/20
-LOCATION:Prime Video\, Apple TV
-DESCRIPTION:Te zien op: Prime Video\, Apple TV\nTitel: Marronnier Oukoku no
-  Shichinin no Kishi\n\nPrime Video: https://www.amazon.com/Seven-Knights-M
- arronnier-Kingdom/dp/B0HF9RBZL7\nApple TV: https://apple.co/4zf2E9b\nhttps
- ://animeschedule.net/anime/marronnier-oukoku-no-shichinin-no-kishi
-URL:https://animeschedule.net/anime/marronnier-oukoku-no-shichinin-no-kishi
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:97a57144d5c1687dccc3ab0edd926b4b694d4744@anime-dub-calendar
-DTSTAMP:20261122T021223Z
-DTSTART:20261115T143000Z
-DTEND:20261115T145400Z
-SUMMARY:Tank Chair (Dub) – Ep 7/12
-LOCATION:Prime Video\, Apple TV
-DESCRIPTION:Te zien op: Prime Video\, Apple TV\n\nPrime Video: https://www.
- amazon.com/gp/video/detail/B0HJ87ZPRP\nApple TV: https://apple.co/4j94cN9\
- nhttps://animeschedule.net/anime/tank-chair
-URL:https://animeschedule.net/anime/tank-chair
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:f29e2c738edb80fcf48ca4b82c1919553f860649@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261120T120100Z
 DTEND:20261120T122400Z
 SUMMARY:Devils' Crest (Dub) – Ep 4
@@ -65,7 +24,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e2d7d79fd74c8545e75f9acd3fc5ae8eb5885682@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261121T150000Z
 DTEND:20261121T152500Z
 SUMMARY:The Seven Knights of the Marronnier Kingdom (Dub) – Ep 8/20
@@ -79,7 +38,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f35e18a1f1489e3b61465b1f989ad918afe8b155@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261122T143000Z
 DTEND:20261122T145400Z
 SUMMARY:Tank Chair (Dub) – Ep 8/12
@@ -92,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e0b4d644a64ef6cca8df69cc12a271bef296f435@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261127T120100Z
 DTEND:20261127T122400Z
 SUMMARY:Devils' Crest (Dub) – Ep 5
@@ -106,7 +65,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f39767134f9ee1e0fe008a940e817d67259f15da@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261128T150000Z
 DTEND:20261128T152500Z
 SUMMARY:The Seven Knights of the Marronnier Kingdom (Dub) – Ep 9/20
@@ -120,7 +79,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:539d9d54b1947c744343d6c0c4299a5309ef7db3@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261129T143000Z
 DTEND:20261129T145400Z
 SUMMARY:Tank Chair (Dub) – Ep 9/12
@@ -133,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:0890ae1aef8a144a10f6b86420ec87b26f7f21ed@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261204T120100Z
 DTEND:20261204T122400Z
 SUMMARY:Devils' Crest (Dub) – Ep 6
@@ -147,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dca6a876656be768df4354361115483dc1b5397f@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261205T150000Z
 DTEND:20261205T152500Z
 SUMMARY:The Seven Knights of the Marronnier Kingdom (Dub) – Ep 10/20
@@ -161,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:afe52840cc81eb13d41b2590edfad2232a50d5ab@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261206T143000Z
 DTEND:20261206T145400Z
 SUMMARY:Tank Chair (Dub) – Ep 10/12
@@ -174,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:e5106379469ccb88bf33853d4f9092b1c379c625@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261211T120100Z
 DTEND:20261211T122400Z
 SUMMARY:Devils' Crest (Dub) – Ep 7
@@ -188,7 +147,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:af785a22c22656267d1b1d55360d2323c3335ff2@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261212T150000Z
 DTEND:20261212T152500Z
 SUMMARY:The Seven Knights of the Marronnier Kingdom (Dub) – Ep 11/20
@@ -202,10 +161,51 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5880441cf7d868936d988d6e01d7d54619071e88@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261213T143000Z
 DTEND:20261213T145400Z
 SUMMARY:Tank Chair (Dub) – Ep 11/12
+LOCATION:Prime Video\, Apple TV
+DESCRIPTION:Te zien op: Prime Video\, Apple TV\n\nPrime Video: https://www.
+ amazon.com/gp/video/detail/B0HJ87ZPRP\nApple TV: https://apple.co/4j94cN9\
+ nhttps://animeschedule.net/anime/tank-chair
+URL:https://animeschedule.net/anime/tank-chair
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:013da12c6b8a480c0e8c821d9461712d48f0afb1@anime-dub-calendar
+DTSTAMP:20261123T073046Z
+DTSTART:20261218T120100Z
+DTEND:20261218T122400Z
+SUMMARY:Devils' Crest (Dub) – Ep 8
+LOCATION:Prime Video\, Apple TV
+DESCRIPTION:Te zien op: Prime Video\, Apple TV\nTitel: Demons' Crest\n\nPri
+ me Video: https://www.primevideo.com/detail/0J35D20PPSSNACER7Z6BEAHQFW\nAp
+ ple TV: https://apple.co/488VHuU\nhttps://animeschedule.net/anime/demons-c
+ rest
+URL:https://animeschedule.net/anime/demons-crest
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1459dd61f26b67a2bbfc6ab1170b46cbc540d29@anime-dub-calendar
+DTSTAMP:20261123T073046Z
+DTSTART:20261219T150000Z
+DTEND:20261219T152500Z
+SUMMARY:The Seven Knights of the Marronnier Kingdom (Dub) – Ep 12/20
+LOCATION:Prime Video\, Apple TV
+DESCRIPTION:Te zien op: Prime Video\, Apple TV\nTitel: Marronnier Oukoku no
+  Shichinin no Kishi\n\nPrime Video: https://www.amazon.com/Seven-Knights-M
+ arronnier-Kingdom/dp/B0HF9RBZL7\nApple TV: https://apple.co/4zf2E9b\nhttps
+ ://animeschedule.net/anime/marronnier-oukoku-no-shichinin-no-kishi
+URL:https://animeschedule.net/anime/marronnier-oukoku-no-shichinin-no-kishi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e78c8f4a4b8dd45e03f9bde432669a03a85ce80d@anime-dub-calendar
+DTSTAMP:20261123T073046Z
+DTSTART:20261220T143000Z
+DTEND:20261220T145400Z
+SUMMARY:Tank Chair (Dub) – Ep 12/12
 LOCATION:Prime Video\, Apple TV
 DESCRIPTION:Te zien op: Prime Video\, Apple TV\n\nPrime Video: https://www.
  amazon.com/gp/video/detail/B0HJ87ZPRP\nApple TV: https://apple.co/4j94cN9\

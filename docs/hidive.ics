@@ -9,38 +9,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 X-APPLE-CALENDAR-COLOR:#AF52DE
 BEGIN:VEVENT
-UID:0a1c1fc864ca1ccf7c3c474053062f9082304242@anime-dub-calendar
-DTSTAMP:20261122T021223Z
-DTSTART:20261111T170000Z
-DTEND:20261111T172300Z
-SUMMARY:Reincarnated as a Sword 2 (Dub) – Ep 4/12
-LOCATION:HIDIVE\, Prime Video\, Apple TV\, Bilibili\, YouTube
-DESCRIPTION:Te zien op: HIDIVE\, Prime Video\, Apple TV\, Bilibili\, YouTub
- e\nTitel: Tensei shitara Ken deshita 2\n\nHIDIVE: https://www.hidive.com/s
- eason/39506\nPrime Video: https://www.amazon.com/gp/video/detail/B0HLCHQS6
- T\nApple TV: https://apple.co/4huYSRF\nBilibili: https://www.bilibili.tv/e
- n/media/2432099\nYouTube: https://www.youtube.com/playlist?list=PLcSpWjb7H
- 0lk\nhttps://animeschedule.net/anime/tensei-shitara-ken-deshita-2
-URL:https://animeschedule.net/anime/tensei-shitara-ken-deshita-2
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ac8cf67999bf0d91b6db14b1077d518d2d706533@anime-dub-calendar
-DTSTAMP:20261122T021223Z
-DTSTART:20261111T170000Z
-DTEND:20261111T172300Z
-SUMMARY:World Is Dancing (Dub) – Ep 12/13
-LOCATION:HIDIVE\, Apple TV\, YouTube
-DESCRIPTION:Te zien op: HIDIVE\, Apple TV\, YouTube\n\nHIDIVE: https://www.
- hidive.com/season/36240\nApple TV: https://apple.co/449S9qa\nYouTube: http
- s://www.youtube.com/playlist?list=PLwLSw1_eDZl0a5R_sTDWnpN19_TCZuW-E\nhttp
- s://animeschedule.net/anime/world-is-dancing
-URL:https://animeschedule.net/anime/world-is-dancing
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:0430d515444556fcc7bd8b89e215697d7692d517@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261118T170000Z
 DTEND:20261118T172400Z
 SUMMARY:Nia Liston: The Merciless Maiden (Dub) – Ep 1/25
@@ -57,7 +27,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:af459cd7d895a8bcf7366c9a072ffa3f5cd92d3a@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261118T170000Z
 DTEND:20261118T172300Z
 SUMMARY:Reincarnated as a Sword 2 (Dub) – Ep 5/12
@@ -73,7 +43,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:cc6df883ea77ee857e6250aee697a63d3a0073e9@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261118T170000Z
 DTEND:20261118T172300Z
 SUMMARY:World Is Dancing (Dub) – Ep 13/13
@@ -87,7 +57,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5363ead998c4e9d8def9a20e3723eae15d5ba41f@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261125T170000Z
 DTEND:20261125T172400Z
 SUMMARY:Nia Liston: The Merciless Maiden (Dub) – Ep 2/25
@@ -104,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2f4951e48fc1254ba8086598e1da938cfef4db80@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261125T170000Z
 DTEND:20261125T172300Z
 SUMMARY:Reincarnated as a Sword 2 (Dub) – Ep 6/12
@@ -120,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f0c431bf54b15d769aa77a0a013a796434fca7a7@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261202T170000Z
 DTEND:20261202T172400Z
 SUMMARY:Nia Liston: The Merciless Maiden (Dub) – Ep 3/25
@@ -137,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4c453b783e326ea8788510a110319fdd8d635d60@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261202T170000Z
 DTEND:20261202T172300Z
 SUMMARY:Reincarnated as a Sword 2 (Dub) – Ep 7/12
@@ -153,7 +123,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f214c74965785db9856ba13f24c418e776ac98f1@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261209T170000Z
 DTEND:20261209T172400Z
 SUMMARY:Nia Liston: The Merciless Maiden (Dub) – Ep 4/25
@@ -170,7 +140,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d6687895b2baa2101a2f9a45ed5fb7d6e88cbd5b@anime-dub-calendar
-DTSTAMP:20261122T021223Z
+DTSTAMP:20261123T073046Z
 DTSTART:20261209T170000Z
 DTEND:20261209T172300Z
 SUMMARY:Reincarnated as a Sword 2 (Dub) – Ep 8/12
@@ -182,6 +152,54 @@ DESCRIPTION:Te zien op: HIDIVE\, Prime Video\, Apple TV\, Bilibili\, YouTub
  n/media/2432099\nYouTube: https://www.youtube.com/playlist?list=PLcSpWjb7H
  0lk\nhttps://animeschedule.net/anime/tensei-shitara-ken-deshita-2
 URL:https://animeschedule.net/anime/tensei-shitara-ken-deshita-2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f95f15c594ad19b2486b505c61f9153f92f30ba8@anime-dub-calendar
+DTSTAMP:20261123T073046Z
+DTSTART:20261216T170000Z
+DTEND:20261216T172400Z
+SUMMARY:Nia Liston: The Merciless Maiden (Dub) – Ep 5/25
+LOCATION:HIDIVE\, Apple TV\, Bilibili
+DESCRIPTION:Te zien op: HIDIVE\, Apple TV\, Bilibili\nTitel: Kyouran Reijou
+  Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei
+  Naru Musouroku\n\nHIDIVE: https://hidive.com/season/39540\nApple TV: http
+ s://apple.co/3Ue3WCn\nBilibili: https://www.bilibili.tv/media/2433665\nhtt
+ ps://animeschedule.net/anime/kyouran-reijou-nia-liston-byoujaku-reijou-ni-
+ tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku
+URL:https://animeschedule.net/anime/kyouran-reijou-nia-liston-byoujaku-reij
+ ou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:045cbd9f4e4cc62f95f98d109290ca8c12834387@anime-dub-calendar
+DTSTAMP:20261123T073046Z
+DTSTART:20261216T170000Z
+DTEND:20261216T172300Z
+SUMMARY:Reincarnated as a Sword 2 (Dub) – Ep 9/12
+LOCATION:HIDIVE\, Prime Video\, Apple TV\, Bilibili\, YouTube
+DESCRIPTION:Te zien op: HIDIVE\, Prime Video\, Apple TV\, Bilibili\, YouTub
+ e\nTitel: Tensei shitara Ken deshita 2\n\nHIDIVE: https://www.hidive.com/s
+ eason/39506\nPrime Video: https://www.amazon.com/gp/video/detail/B0HLCHQS6
+ T\nApple TV: https://apple.co/4huYSRF\nBilibili: https://www.bilibili.tv/e
+ n/media/2432099\nYouTube: https://www.youtube.com/playlist?list=PLcSpWjb7H
+ 0lk\nhttps://animeschedule.net/anime/tensei-shitara-ken-deshita-2
+URL:https://animeschedule.net/anime/tensei-shitara-ken-deshita-2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4c97d8adbedd6ccdd50c2fdd392120168180df5b@anime-dub-calendar
+DTSTAMP:20261123T073046Z
+DTSTART:20261216T170000Z
+DTEND:20261216T172300Z
+SUMMARY:TETSURYO! meet with Tetsudou Musume (Dub) – Ep 1/12
+LOCATION:HIDIVE\, Apple TV\, YouTube
+DESCRIPTION:Te zien op: HIDIVE\, Apple TV\, YouTube\nTitel: Tetsuryou! Meet
+  with Tetsudou Musume\n\nHIDIVE: https://www.hidive.com/season/39542\nAppl
+ e TV: https://apple.co/4AW7WYD\nYouTube: https://www.youtube.com/playlist?
+ list=PLJaKlqcb9GkQ\nhttps://animeschedule.net/anime/tetsuryou-meet-with-te
+ tsudou-musume
+URL:https://animeschedule.net/anime/tetsuryou-meet-with-tetsudou-musume
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
